@@ -1,0 +1,13 @@
+
+Object Oriented Programming
+object niye kaj kora ei jono eita ke object oriented programming bola hoy
+-class
+-object
+-variable
+-method
+   -overridding method
+   -overloading method
+-inheritance
+-abstraction
+-encapsulation
+-polimorphism
